@@ -1,0 +1,8 @@
+- setup git
+- kaldi-native submodule
+- typescript native addon boilerplate (cmake, napi, tsconfig)
+- addon C++ code
+- setup jest
+- write unit tests
+- find the right NAPI wrapper
+- implement batch processing
