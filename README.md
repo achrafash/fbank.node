@@ -1,5 +1,5 @@
-- setup git
-- kaldi-native submodule
+- ~~setup git~~
+- ~~kaldi-native submodule~~
 - typescript native addon boilerplate (cmake, napi, tsconfig)
 - addon C++ code
 - setup jest
