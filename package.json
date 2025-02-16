@@ -1,0 +1,17 @@
+{
+  "name": "fbank.node",
+  "description": "Node native addon for kaldi fbank",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "cmake-js compile",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "cmake-js": "^7.3.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node-addon-api": "^8.3.0"
+  }
+}
